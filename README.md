@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/fallebdi" target="blank"><img src="https://img.shields.io/twitter/follow/fallebdi?logo=twitter&style=for-the-badge" alt="fallebdi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/f22hd](https://github.com/f22hd)
+- 👨‍💻 All of my public projects are available at [my-repositories](https://github.com/f22hd?tab=repositories)
 
 - 📝 I regularly write articles on [http://allebdi.me](http://allebdi.me)
 
 - 💬 Ask me about **react,angular,typescript,javascript,html,css,tailwindcss,bootstrap**
 
-- 📫 How to reach me **fa88hd@gmail.com**
+- 📫 How to reach me [https://twitter.com/Fallebdi](https://twitter.com/Fallebdi)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -22,11 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fallebdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fallebdi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fahd-allebdi-4556a189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd-allebdi-4556a189" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/6627559/fahd-allebdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/6627559/fahd-allebdi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fahad-allebdi-4556a189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd-allebdi-4556a189" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6627559/fahd-allebdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/6627559/fahd-allebdi" height="30" width="40" /></a>
 <a href="https://medium.com/@f13hd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@f13hd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fahad allebdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fahad allebdi" height="30" width="40" /></a>
-<a href="/http://allebdi.me/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://allebdi.me/feed/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCpPuEI6xb-NS6BtWglTLOGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fahad allebdi" height="30" width="40" /></a>
+<a href="http://allebdi.me/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://allebdi.me/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
