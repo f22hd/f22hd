@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [http://allebdi.me](http://allebdi.me)
 
-- 💬 Ask me about **react,angular,typescript,javascript,html,css,tailwindcss,bootstrap**
+- 💬 Ask me about **react,angular,typescript,javascript,html,css,tailwindcss,bootstrap,php,laravel**
 
 - 📫 How to reach me [https://twitter.com/Fallebdi](https://twitter.com/Fallebdi)
 
