@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my public projects are available at [my-repositories](https://github.com/f22hd?tab=repositories)
 
-- 📝 I regularly write articles on [http://allebdi.me](http://allebdi.me)
+- 📝 I regularly write articles on [Medium](https://medium.com/@f13hd)
 
 - 💬 Ask me about **react,angular,typescript,javascript,html,css,tailwindcss,bootstrap,php,laravel**
 
